@@ -40,3 +40,8 @@ PLA
 ## Tips to print this model
 To make more stable the print of the different pieces, I recommend to use a raft of type "border" with 20 lines, also enable the z hop retraction. Also I recommend to print all the pieces of the model at the same print. You could see some screenshots of my prints using cura and the final result.
 To avoid the use of supports I recommend to print the pieces in vertical.
+
+## Images
+![Piece 1](https://i.ibb.co/YBph7Wc/Captura-de-pantalla-2020-05-30-a-las-16-36-46.png)
+![Piece 2](https://i.ibb.co/kQS7xPz/Captura-de-pantalla-2020-05-30-a-las-16-36-55.png)
+![Piece 3](https://i.ibb.co/h1605B0/Captura-de-pantalla-2020-05-30-a-las-16-36-35.png)
