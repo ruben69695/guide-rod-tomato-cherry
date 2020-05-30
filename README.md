@@ -1,7 +1,7 @@
 # Guide rods for cherry tomatoes
 This was my first 3D design to guide the tomato cherry plant and to support it in my own orchard. In the model we have 3 parts, the number two can be repeated the number of times you want to make the final rod taller (the model is modular and the pieces are embedded to each other).
 
-# Dimensions of the pieces
+## Dimensions of the pieces
 
 1. Piece one
   X: 10mm
@@ -18,7 +18,7 @@ This was my first 3D design to guide the tomato cherry plant and to support it i
   Y: 10mm
   Z: 145mm
   
-# Print Settings
+## Print Settings
 Rafts:
 Yes
 
@@ -37,6 +37,6 @@ Cyan || Green || Yellow
 Filament_material:
 PLA
 
-# TIPS TO PRINT THIS MODEL
+## TIPS TO PRINT THIS MODEL
 To make more stable the print of the different pieces, I recommend to use a raft of type "border" with 20 lines, also enable the z hop retraction. Also I recommend to print all the pieces of the model at the same print. You could see some screenshots of my prints using cura and the final result.
 To avoid the use of supports I recommend to print the pieces in vertical.
