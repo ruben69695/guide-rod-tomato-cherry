@@ -45,3 +45,4 @@ To avoid the use of supports I recommend to print the pieces in vertical.
 ![Piece 1](https://i.ibb.co/YBph7Wc/Captura-de-pantalla-2020-05-30-a-las-16-36-46.png)
 ![Piece 2](https://i.ibb.co/kQS7xPz/Captura-de-pantalla-2020-05-30-a-las-16-36-55.png)
 ![Piece 3](https://i.ibb.co/h1605B0/Captura-de-pantalla-2020-05-30-a-las-16-36-35.png)
+![Cura Model Print](https://i.ibb.co/Qm0kB7N/Captura-de-pantalla-2020-05-30-a-las-17-32-54.png)
