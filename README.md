@@ -37,6 +37,6 @@ Cyan || Green || Yellow
 Filament_material:
 PLA
 
-## TIPS TO PRINT THIS MODEL
+## Tips to print this model
 To make more stable the print of the different pieces, I recommend to use a raft of type "border" with 20 lines, also enable the z hop retraction. Also I recommend to print all the pieces of the model at the same print. You could see some screenshots of my prints using cura and the final result.
 To avoid the use of supports I recommend to print the pieces in vertical.
